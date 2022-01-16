@@ -1,4 +1,4 @@
 # SSH client configuration
-Host 35.196.211.2
-HostName 35.196.211.2
+Host 3.85.241.225
+HostName 3.85.241.225
 IdentityFile ~/.ssh/school
